@@ -1,0 +1,26 @@
+#product-wrapper{
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px auto;
+}
+.product-card{
+    width: 250px;
+    border: 1px solid green;
+    padding: 25px;
+    margin: 10px;
+    border-radius: 5px;
+    
+}
+.style{
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+#btn-style{
+    padding: 10px 20px;
+    margin: 40px;
+    font-size: 18px;
+
+}
